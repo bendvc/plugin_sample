@@ -1,0 +1,10 @@
+.DS_Store
+*.tgz
+*.zip
+dist/
+node_modules/
+*.log
+coverage/
+.idea/
+.vscode/
+dw.json
